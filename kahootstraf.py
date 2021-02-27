@@ -63,12 +63,11 @@ doorgaan = input("\033[31m--\033[34m>\033[34m \033[31mKlik ENTER om door te gaan
 
 alleCODES = (botnanoCODE+botnanoCODE3+botnanoCODE2)
 
-kopieerALLES = pyperclip.copy(botnanoCODE+botnanoCODE3+botnanoCODE2)
+kopieerALLES = pyperclip.copy(alleCODES)
 
 filename = input("\033[31m--\033[34m>\033[31m Kies uw bestand naam (bijv: hallo.js!\n\033[35m[>] LET OP : .js erachter is verplicht: ")
 
 akkoort = input("\033[0m\nLET OP:\n\nNa alle stappen sluit programma. Typ wanneer het sluit: node "+filename)
 
 os.system('nano '+filename)
-os.system(pyperclip.paste(kopieerALLES))
 
