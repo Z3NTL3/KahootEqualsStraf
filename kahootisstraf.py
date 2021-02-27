@@ -28,5 +28,5 @@ print("""
 
 kahootCODE = input("\033[1m\033[36m\033[34m╔═\033[34m\033[31m[\033[31m\033[33m~\033[33m\033[31m]\033[31m\033[36mr00t\033[36m\033[33m@\033[33m\033[35mEfdal\033[35m\033[33m[\033[33m\033[36m\033[36m\033[36mTyp > Wat > Om > Door > Te > Gaan\033[33m]\033[33m\033[32m$\033[32m\033[36m\033[1m\033[0m\n\033[1m\033[34m╚═══════►\033[34m\033[1m\033[0m")
 
-runbot = os.system('node index.js')
+runbot = os.system('nodejs index.js')
 os.system(runbot)
