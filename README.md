@@ -23,9 +23,10 @@ Verstuurd honderden BOTS in de door u gegevende Kahoot Code. Je zult je docenten
   <code>cd KahootEqualsStraf</code><br><br>
   <code>chmod +x kahootisstraf</code><br>
 
-  
-  <br><p>Eerst zal die alle benodigheden installeren. Waneer je ziet staan voer wachtwoord in typ de wachtwoord die ik hieronder aangegeven heb</p><br>
+
+  <p>Eerst zal die alle benodigheden installeren. Waneer je ziet staan voer wachtwoord in typ de wachtwoord die ik hieronder aangegeven heb</p><br>
   Wachtwoord van programma = Efdal
-  <br><p> Vervolgens klik je op enter en dan zal die Kahoot Code vragen, voer het in en there you GO! :) Je docent zal de les sluiten xD</p>
+  <br><p> Vervolgens klik je op enter en dan zal die Kahoot Code vragen, voer het in en there you GO! :) Je docent zal de les sluiten xD</p><br>
   
+  <p> Let OP: Tijdens installatie proces zal die soms om Y/N vragen dit houdt in: Zal ik het installeren ja of nee? Typ dan elke keer y en klik op enter!</p>
   
