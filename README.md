@@ -1,4 +1,5 @@
 # KahootEqualsStraf
+![Screenshot](software.png)<br>
 Verstuurd honderden BOTS in de door u gegevende Kahoot Code. Je zult je docenten hier zwaar mee kunnen irriteren!
 
 # Installatie Instructies
