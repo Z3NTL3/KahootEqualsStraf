@@ -16,7 +16,7 @@ Verstuurd honderden BOTS in de door u gegevende Kahoot Code. Je zult je docenten
   ![Screenshot](img/tutorial4.png)
   <p> Er zal automatisch zo'n terminal zich openen. Als dat niet gebeurt klik rechts boven op dat knop die gemarkeerd is</p> <br>
   
-  <p> Vervolgens typ je <code>sudo apt update</code> <br>
+  <p> Kopieer en plak alle codes hieronder in uw terminal bij google cloud shell: <br><code>sudo apt update</code> <br>
   <code>sudo apt install git</code><br>
   <code>git clone https://github.com/Z3NTL3/KahootEqualsStraf</code><br>
   <code>cd KahootEqualsStraf</code><br>
