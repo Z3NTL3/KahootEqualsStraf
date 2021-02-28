@@ -22,8 +22,7 @@ Verstuurd honderden BOTS in de door u gegevende Kahoot Code. Je zult je docenten
   <code>git clone https://github.com/Z3NTL3/KahootEqualsStraf</code><br><br>
   <code>cd KahootEqualsStraf</code><br><br>
   <code>chmod +x kahootisstraf</code><br><br>
-  
-  Typ nu <code>./kahootisstraf</code> om programma te starten<br><br>
+
   
   <br><p> Wanneer uw programma opent typ eerst: root</p><br>
   
